@@ -1,0 +1,16 @@
+From d4c445997dc524812c64b0300461adcc7b2f612c Mon Sep 17 00:00:00 2001
+From: DEV PATEL <pateldevd1109@gamil.com>
+Date: Wed, 12 Mar 2025 12:15:36 +0530
+Subject: [PATCH 3/3] file deleted
+
+---
+ dev.html | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ delete mode 100644 dev.html
+
+diff --git a/dev.html b/dev.html
+deleted file mode 100644
+index e69de29..0000000
+-- 
+2.48.1.windows.1
+
